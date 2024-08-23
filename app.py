@@ -43,7 +43,7 @@ similarity = pickle.load(open(r'similarity.pkl', 'rb'))
 css1 = """
     <style>
         .stApp {
-            background-color: #000000; /* Black color */
+            background-color: white; /* Black color */
         }
         .stButton button {
             background-color: #ff5733;
